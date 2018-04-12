@@ -1,0 +1,9 @@
+sp_MDD_Voice_Libro_Voz_TLT_All
+sp_MDD_Voice_Libro_Voz_TLT_4G
+sp_MDD_Voice_Libro_Voz_TLT_3G
+
+sp_MDD_Voice_Llamadas
+
+sp_MDD_Voice_Libro_End_Calls
+sp_MDD_Voice_Libro_Blocked_Calls
+sp_MDD_Voice_Libro_Dropped_Calls
